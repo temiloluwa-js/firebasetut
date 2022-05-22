@@ -1,0 +1,16 @@
+.nav{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: larger;
+  width: 100%;
+  justify-content: space-around;
+  background-color: black;
+  height: 70px;
+  color: azure;
+}
+
+.link{
+  text-decoration: none;
+  color: aliceblue;
+}
