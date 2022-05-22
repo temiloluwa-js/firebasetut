@@ -12,6 +12,7 @@ const Login = ({setIsAuth}) => {
       navigate('/')
     })
   }
+
   return (
     <div className="loginpage">
       <p>Sign in with Google to Continue</p>
