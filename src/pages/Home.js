@@ -26,8 +26,10 @@ const Home = () => {
               {post.title}
             </div>
             <button onClick={() => deletePost(post.id)}>Delete</button>
+          
           </div>
         );
+        
       })}
     </div>
   );
